@@ -1,0 +1,6 @@
+This dashboard is built using POWER BI, It's main emphasis is taking out insights from MARKETING perspective, such as ,
+
+1. See exactly which states and cities have the most customers, so you know where to focus your advertising and open new branches
+2. How people of different age groups are availing services and much more
+
+The journey obviously include,SQL, CORRECTING, MODELING, DAX and much more
